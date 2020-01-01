@@ -1,6 +1,7 @@
 # ECE 560: Embedded Systems Architecture
 
 Project Name - Motion Tilt Sensor
+
 Area - Embedded Systems
 
 Problem Statement:
